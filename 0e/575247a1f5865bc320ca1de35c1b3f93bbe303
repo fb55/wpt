@@ -1,0 +1,19 @@
+html/syntax/parsing/tree-construction-scope-regressions.html
+  s_6a2486d54e623b::t_73d4d0688f127e 153-157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0e575247a1f5865bc320ca1de35c1b3f93bbe303",
+  "prompts": {},
+  "sessions": {
+    "s_6a2486d54e623b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ad36-92ed-7850-b421-e9c0b49ddf17",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Felix Boehm <188768+fb55@users.noreply.github.com>"
+    }
+  }
+}
